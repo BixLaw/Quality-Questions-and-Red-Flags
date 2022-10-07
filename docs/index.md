@@ -22,5 +22,7 @@ Last updated	30/09/2022
 | What is the need for this analysis or statistical release?  |  Understanding why the analysis/statistical release is needed and what it will be used for is critical for understanding whether what you have done is fit for purpose. If you are responsible for part of an analytical/statistical process, understanding the end use will help you to make sure that your part does what is needed to meet user needs. | [Guidance: The AQUA Book](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf)
 | Content Cell  | Content Cell  | 
 
+Click [here](https://github.com/BixLaw/Quality-Questions-and-Red-Flags/blob/master/docs/Quality%20Questions%20and%20Quality%20Red%20Flags.pdf) to download the document
+
 
 This link should work: [link](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf)
