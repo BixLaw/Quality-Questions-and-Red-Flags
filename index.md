@@ -1,3 +1,3 @@
-#This is the new main page
+# This is the new main page
 
-(link to the second page)[]
+[link to the second page](second_page)
