@@ -4,7 +4,7 @@
 It is important that you understand how your work feeds into the bigger picture, especially if you only work on a small part of an analysis workflow. If you are not aware of issues with the inputs to your work, or how your work feeds into other work later in the process you may miss important quality issues or fail to include important quality checks that don't impact you directly but have a big effect later on in the process.
 
 Here are some additional resources that might help
-| Your team leader or Deputy Director can support in understanding the end-to-end process of the analysis.
+| Your team leader or Deputy Director can support in understanding the end-to-end process of the analysis. |
 | ------------- | 
 
 
