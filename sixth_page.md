@@ -6,7 +6,7 @@ You should be able to explain why you chose the method (or set of methods) that 
 
 
 Here are some additional resources that might help
-| [Guidance: The AQUA Book](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf) |  [Guidance: Analysis Functional Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2) |  Get in touch with the [Anakysis Standards and Pipelines Hub](mailto:External.Affairs@ons.gov.uk) and the [Methodology Advisory Service (MAS)](mailto:MAS@ons.gov.uk)
+| [Guidance: The AQUA Book](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf) |  [Guidance: Analysis Functional Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2) |  Get in touch with the [Anakysis Standards and Pipelines Hub](mailto:External.Affairs@ons.gov.uk) and the [Methodology Advisory Service (MAS)](mailto:MAS@ons.gov.uk) |
 | ------------- | ------------- | ------------- |
 
 
