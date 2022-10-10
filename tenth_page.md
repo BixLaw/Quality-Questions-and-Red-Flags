@@ -4,7 +4,7 @@
 Your local Quality Champion can advise on best practice for assuring your analysis, and will have a wider perspective on the work of your division. Make use of their knowledge and experience. New members are always welcome!
 
 Here are some additional resources that might help
-| The [Data Quality Hub](mailto:DQHub@ons.gov.uk) can advise on who the Quality Champions are in your area
+| The [Data Quality Hub](mailto:DQHub@ons.gov.uk) can advise on who the Quality Champions are in your area |
 | ------------- | 
 
 
