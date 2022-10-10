@@ -4,7 +4,7 @@
 All analysis involves decisions. Understanding what those are (and being clear how and why you made them) is critical for understanding why the analysis works the way it does. Keeping a log of the decisions you make, when you made them and who agreed them is a really helpful way to keep track of this.
 
 Here are some additional resources that might help
-| The [Analysis Standards and Pipelines Hub](mailto:ASAP@ons.gov.uk) can advise you on how to track and manage your decisions.
+| The [Analysis Standards and Pipelines Hub](mailto:ASAP@ons.gov.uk) can advise you on how to track and manage your decisions. |
 | ------------- | 
 
 
