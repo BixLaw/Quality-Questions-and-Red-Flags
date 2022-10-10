@@ -6,30 +6,29 @@ Welcome to the DQHub main area, we will give a broad selection of question you m
 
 
 
-| [What is the need for this analysis or statistical release?](second_page) |
-| --------------------------------------- |
-| content |
+> [What is the need for this analysis or statistical release?](second_page)
 
-| [Who uses your analysis or statistical release?](third_page) |
-| --------------------------------------- |
 
-| [What analytical question you are addressing?](fourth_page) |
-| --------------------------------------- |
+> [Who uses your analysis or statistical release?](third_page) 
 
-| [What is the quality of the data that you use?](fifth_page) |
-| --------------------------------------- |
 
-| [How did you choose the methods for the analysis or statistical release](sixth_page) |
-| --------------------------------------- |
+> [What analytical question you are addressing?](fourth_page) 
 
-| [How do you know the method you are using is appropriate?](seventh_page) |
-| --------------------------------------- |
 
-| [Can you summarise and explain the end-to-end process of your analysis or statistical release for somebody who asks about it?](eighth_page) |
-| --------------------------------------- |
+> [What is the quality of the data that you use?](fifth_page) 
 
-| [How do you know that your analysis or statistical process is working correctly?](ninth_page) |
-| --------------------------------------- |
+
+> [How did you choose the methods for the analysis or statistical release](sixth_page) 
+
+
+> [How do you know the method you are using is appropriate?](seventh_page) 
+
+
+> [Can you summarise and explain the end-to-end process of your analysis or statistical release for somebody who asks about it?](eighth_page) 
+
+
+> [How do you know that your analysis or statistical process is working correctly?](ninth_page) 
+
 
 
 SPACE
