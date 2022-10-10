@@ -4,7 +4,7 @@
 Having an overview of your analysis/statistical release (especially if you only work on part of it) ensures that you and your team understand how your work feeds into the wider product. It can help you to identify potential quality risks or issues, both upstream and downstream of your own work as well as how your activity supports and underpins downstream processing.
 
 Here are some additional resources that might help
-| [Guidance: The AQUA Book](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf) | [Generic Statistical Business Process Model (GSBPM)](https://gss.civilservice.gov.uk/wp-content/uploads/2016/01/Generic-Statistical-Business-Process-Model.pdf)
+| [Guidance: The AQUA Book](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf) | [Generic Statistical Business Process Model (GSBPM)](https://gss.civilservice.gov.uk/wp-content/uploads/2016/01/Generic-Statistical-Business-Process-Model.pdf) |
 | ------------- | ------------- | 
 
 
