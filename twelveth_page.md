@@ -5,7 +5,7 @@ Things change - society and the economy, households and businesses evolve and so
 
 
 Here are some additional resources that might help
-| The [Methodology Advisory Service](mailto:MAS@ons.gov.uk) and the [Analysis Standards and Pipelines Hub](mailto:ASAP@ons.gov.uk) can help you with methods and their implementation.
+| The [Methodology Advisory Service](mailto:MAS@ons.gov.uk) and the [Analysis Standards and Pipelines Hub](mailto:ASAP@ons.gov.uk) can help you with methods and their implementation. |
 | ------------- | 
 
 
