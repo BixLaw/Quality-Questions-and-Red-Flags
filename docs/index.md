@@ -1,20 +1,24 @@
 # Quality Questions and Red Flags
 
-This document is published and maintained by the Data Quality Hub and the Analysis Standards and Pipelines Hub.
+This document is published and maintained by the Data Quality Hub and the Analysis Standards and Pipelines Hub. 
 
-It aims to provide support to colleagues working on statistical outputs and analysis in ONS.
+The information below aims to provide support and guidance to colleagues working on statistical outputs and analysis in ONS. 
 
-The tab 'Quality Questions' include a set of questions that the analyst can use to interrogate their work with their team, and will support them in assuring the quality of their work. The document explains why the question is important, and what help, guidance, and support is available.
+The ‘Quality Questions’ table include a set of questions that the analyst can use to interrogate their work with their team and will support them in assuring the quality of their work. The document explains why the question is important, and what help, guidance, and support is available. You can also look for specific information, we suggest you read down the first column and when you find a question that is relevant to you, you can read across that row of the table for more information. 
 
-The tab 'Quality Red Flags' include a set of statements that can help the analyst and their team to identify potential risks to quality that might benefit from further look into. These statements are not meant to be considered as a value judgment, but more as a suggestion that best practice and support could be beneficial.
+The ‘Quality Red Flags’ table include a set of statements that can help the analyst and their team to identify potential risks to quality that might benefit from further look into. These statements are not meant to be considered as a value judgment, but more as a suggestion that best practice and support could be beneficial. 
 
-If you have any questions or feedback about this document, please reach out to the Data Quality Hub or the Analysis Standards and Pipelines Hub. We will keep this updated and we always welcome any input from anyone working on statistical releases or analysis to ensure this document can be the most helpful possible.
+We will be developing this page and welcome your feedback on the content and the structure.
 
-Last updated	30/09/2022
+Contact: DQHub@ons.gov.uk 
+
+
 
 
 
 ![image](https://user-images.githubusercontent.com/92517253/194540467-6b7c2375-0a73-401b-921a-18a12300575c.png)
+
+
 
 ## Quality Questions
 
@@ -39,7 +43,7 @@ Last updated	30/09/2022
 | **What is the assessment of the quality of your analytical outputs?** | Understanding and reporting on the quality of your analytical outputs is critical to ensure fitness for purpose, as well as trust and reliability. This ensures that analysis can appropriately inform decision-making. Your quality assessments are also key information to be shared with your users (for instance, through the Quality and Methodology Information Reports - QMIs) as well as being a requirement of the Code of Practice for Statistics. | > [Guidance: Quality statistics in government](https://analysisfunction.civilservice.gov.uk/policy-store/quality-statistics-in-government/) <br> > [Tips for urgent quality assurance of ad-hoc analysis](https://analysisfunction.civilservice.gov.uk/policy-store/top-tips-for-quality-assuring-urgent-pieces-of-ad-hoc-statistical-analysis/) <br> > [Guidelines for measuring statistical quality](https://unstats.un.org/unsd/dnss/docs-nqaf/UK-Guidelines_Subject.pdf) <br> > [Mandatory training on Quality Statistics in government](https://learninghub.ons.gov.uk/enrol/index.php?id=1497) <br> > [Mandatory introductory training on Code of Practice](https://learninghub.ons.gov.uk/enrol/index.php?id=1094) <br> > For support and advice, get in touch with the [Data Quality Hub](mailto:DQHub@ons.gov.uk)
 
 
-## Red Flags
+## Qaulity Red Flags
 
 
 | Quality Red Flags | Why do I need to know the answer to this? | What help is available here? |
